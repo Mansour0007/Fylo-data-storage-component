@@ -34,7 +34,8 @@ body {
 }
 .wrapper {
   padding: 3rem;
-  margin-top: -3rem;
+  margin-top: -17rem;
+
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -166,7 +167,7 @@ body {
 }
 
 .progress-bar-gragient {
-  width: 185px;
+  width: 385px;
   height: 13px;
   border-radius: 10px;
   background: linear-gradient(to right, hsl(6, 100%, 80%), hsl(335, 100%, 65%));
