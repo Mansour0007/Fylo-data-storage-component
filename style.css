@@ -225,4 +225,7 @@ body {
     right: -10px;
     transform: rotate(90deg);
   }
+  .progress-bar-gragient {
+    width: 380px;
+  }
 }
